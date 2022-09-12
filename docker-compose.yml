@@ -12,4 +12,4 @@ services:
       - 9022:9022
       - 9052:9052
     working_dir: /app
-    command: java -jar -Xmx6G ergo.jar --testnet -c ergo.conf
+    command: java -jar -Xmx2G ergo.jar --testnet -c ergo.conf
