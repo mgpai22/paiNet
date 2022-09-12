@@ -1,10 +1,10 @@
 # PaiNet Custom Ergo TestNet Node
 
 - 45 seconds blocktime
-live node: https://pai-net.mempoolnode.live/panel
-explorer: https://explorer.mempoolnode.live/
-api: https://api.mempoolnode.live/api/v1/docs/
-gql: https://gql.mempoolnode.live/
+- live node: https://pai-net.mempoolnode.live/panel
+- explorer: https://explorer.mempoolnode.live/
+- api: https://api.mempoolnode.live/api/v1/docs/
+- gql: https://gql.mempoolnode.live/
 
 
 ## Prerequisites
