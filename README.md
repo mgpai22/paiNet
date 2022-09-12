@@ -5,6 +5,7 @@
 - explorer: https://explorer.mempoolnode.live/
 - api: https://api.mempoolnode.live/api/v1/docs/
 - gql: https://gql.mempoolnode.live/
+- faucet: https://painet-faucet.mempoolnode.live/
 
 
 ## Prerequisites
