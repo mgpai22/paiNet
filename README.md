@@ -1,6 +1,14 @@
 # PaiNet Custom Ergo TestNet Node
 
+This has been adopted by the ErgoPlatform as the offical testnet
+
 - 45 seconds blocktime
+
+- offical node: http://213.239.193.208:9052/panel
+- offical explorer: https://testnet.ergoplatform.com/
+- offical api: https://api-testnet.ergoplatform.com/api/v1/docs/
+- offical gql: https://gql-testnet.ergoplatform.com/
+
 - live node: https://pai-net.mempoolnode.live/panel
 - explorer: https://explorer.mempoolnode.live/
 - api: https://api.mempoolnode.live/api/v1/docs/
