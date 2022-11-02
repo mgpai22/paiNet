@@ -10,7 +10,7 @@ This has been adopted by the ErgoPlatform as the offical testnet
 - offical gql: https://gql-testnet.ergoplatform.com/
 
 
-- down for maintenance 
+### down for maintenance 
 - live node: https://pai-net.mempoolnode.live/panel
 - explorer: https://explorer.mempoolnode.live/
 - api: https://api.mempoolnode.live/api/v1/docs/
