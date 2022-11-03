@@ -9,11 +9,11 @@ This has been adopted by the ErgoPlatform as the offical testnet
 - offical api: https://api-testnet.ergoplatform.com/api/v1/docs/
 - offical gql: https://gql-testnet.ergoplatform.com/
 
-
-- live node: https://pai-net.mempoolnode.live/panel
+### Community Ran Services 
 - explorer: https://tn-ergo-explorer.anetabtc.io/
 - api: https://tn-ergo-explorer.anetabtc.io/api/v1/docs/
 - gql: https://tn-ergo-explorer.anetabtc.io/graphql
+
 ### down for maintenance 
 - faucet: https://painet-faucet.mempoolnode.live/
 
