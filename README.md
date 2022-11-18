@@ -14,8 +14,8 @@ This has been adopted by the ErgoPlatform as the offical testnet
 - api: https://tn-ergo-explorer.anetabtc.io/api/v1/docs/
 - gql: https://tn-ergo-explorer.anetabtc.io/graphql
 
-### down for maintenance 
-- faucet: https://painet-faucet.mempoolnode.live/
+#### faucet is back up!
+- faucet: https://tn-faucet.ergohost.io/
 
 
 ## Prerequisites
