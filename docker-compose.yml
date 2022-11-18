@@ -7,7 +7,7 @@ services:
     volumes:      
       - ./.ergo:/ergo/.ergo
       - ./ergo.conf:/app/ergo.conf
-      - ./ergo-paiNet.jar:/app/ergo.jar
+      - ./ergo-5.0.3.jar:/app/ergo.jar
     ports:
       - 9022:9022
       - 9052:9052
